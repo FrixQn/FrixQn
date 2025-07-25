@@ -8,6 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have been developing games since 2019, specializing in game development, prototyping, and implementing game mechanics of varying complexity. I create games for multiple platforms, including PC, Mac, Linux, iOS, Android, WebGL, and consoles. I have strong knowledge in C#, SOLID principles, Big O notation, design patterns, and multiplayer technologies.
 
 *   ✉️  You can contact me at [frixqn@gmail.com](mailto:frixqn@gmail.com)
+*   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/frixqn)
 
 ### Skills
 
